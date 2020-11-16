@@ -16,6 +16,11 @@
 ## Abstraction (추상화)
 예 : 프로젝터에서는 어떻게 사용해야 하는지만 알면되고, 어떻게 프로젝터가 만들어졌는지는 알 필요가 없는 개념    
 
-
-
+in programming, think of a piece of code as a black box
+* Details를 볼 수 없어야 하고,
+* Details를 볼 필요가 없어야 하고,
+* Details를 보기를 원하지 않아야 하고,
+* 내부의 지루한 Coding Details을 숨겨야 한다   
+함수의 명세 혹은 파이썬에서는 docstrings를 통해 추상화를 달성해야 한다.
+   
 ## Functions
