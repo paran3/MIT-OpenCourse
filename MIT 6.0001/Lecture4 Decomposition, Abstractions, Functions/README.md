@@ -24,3 +24,15 @@ in programming, think of a piece of code as a black box
 함수의 명세 혹은 파이썬에서는 docstrings를 통해 추상화를 달성해야 한다.
    
 ## Functions
+
+재사용 가능한 코드의 조각들을 함수라고 부른다.   
+함수는 프로그램이 호출하거나 적용되기 전까지는 실행되지 않는다.   
+
+함수의 특징
+* 이름
+* 파라미터(0개 이상)
+* docstring (optional but recommended)
+* 몸체(구현체)
+* return 값
+   
+### Scope   
