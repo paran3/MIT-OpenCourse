@@ -35,4 +35,6 @@ in programming, think of a piece of code as a black box
 * 몸체(구현체)
 * return 값
    
-#### Scope   
+#### Scope
+   
+함수가 호출되면 새로운 범위가 생긴다.   
