@@ -21,5 +21,5 @@ Thread가 새로 생긴다면 parallelism(multithreading)하게 되는건데, �
 --------------------
 결론
 ==
-##### Asynchronous는 비동기 작업이기 때문에 비동기 하게만 처리된다면 해당 작업은 Asynchronous한게 맞다.
-##### 그에 따라 concurrency 하건 parallelism 하건 그건 개발 의도에 맞게 구현하면 된다???
+ Asynchronous는 비동기 작업이기 때문에 비동기 하게만 처리된다면 해당 작업은 Asynchronous한게 맞다.   
+ 그에 따라 concurrency 하건 parallelism 하건 그건 상관없는 것인가???
