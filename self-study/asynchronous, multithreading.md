@@ -19,5 +19,4 @@ Thread가 새로 생긴다면 parallelism(multithreading)하게 되는건데, �
     언어마다 구현 방법이 다르다? node.js == concurrency, java == parallelism ???
 
 --------------------
-#### Asynchronous는 비동기 작업이기 때문에 비동기 하게만 처리된다면 해당 작업 Asynchronous한게 맞다.   
-#### 그에 따라 concurrency 하건 parallelism 하건 그건 개발 
+##### Asynchronous는 비동기 작업이기 때문에 비동기 하게만 처리된다면 해당 작업은 Asynchronous한게 맞다. 그에 따라 concurrency 하건 parallelism 하건 그건 개발 
