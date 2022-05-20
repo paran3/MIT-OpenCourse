@@ -9,7 +9,7 @@ Thread가 새로 생긴다면 parallelism(multithreading)하게 되는건데, �
 
 우선 위의 링크들의 내용을 정리하면 다음과 같다. 아직까지 명확한 답은 모르겠다.   
 * 첫번째 링크
-  * asynchronous( : 작업이 처리되는 방식(e.g. synchronous, non-blocking)   
+  * asynchronous(비동기) : 작업이 처리되는 방식(e.g. synchronous, non-blocking)   
   * thread : 작업을 처리하는 주체
 * 두번째 링크
   * concurrency : Interruptability(인터럽트 가능성)
