@@ -15,4 +15,5 @@ Thread가 새로 생긴다면 parallelism(multithreading)하게 되는건데, �
   * concurrency : Interruptability(인터럽트 가능성)
   * parallelism : Independentability(독립성)
 * 세번째 링크(결론)
-  * asynchronous 작업은 concurrency(single thread)할 수도 있고, parallelism(multi thread)할 수도 있다???
+  * asynchronous 작업은 concurrency(single thread)할 수도 있고, parallelism(multi thread)할 수도 있다???   
+    언어마다 구현 방법이 다르다? node.js == concurrency, java == parallelism ???
